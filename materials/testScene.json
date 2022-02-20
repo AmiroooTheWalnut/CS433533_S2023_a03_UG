@@ -14,9 +14,9 @@
      "filename":"fig3.png"},
     {
      "type": "billboard",
-     "UpperLeft": [-11,  10, -11],  
-     "LowerLeft":  [-11, -10, -11],
-     "UpperRight":[11,  10, -11],
+     "UpperLeft": [-18,  18, -18],  
+     "LowerLeft":  [-18, -18, -18],
+     "UpperRight":[18,  18, -18],
      "filename":"fig2.png"}
     ,
     {
