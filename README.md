@@ -2,7 +2,7 @@ Template code for A03G
 ------------
 
 Author: {FirstName LastName} [{UA Email}]  
-Course: CS533 
+Course: CS433 
 Date: Feb. [20], 2022
 
 **PLEASE UPDATE THIS README**
