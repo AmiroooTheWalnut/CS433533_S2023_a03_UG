@@ -44,6 +44,9 @@ function upload() {
 						// Suitable place to set the boolean variable to true for this input
 					}else if(fileExtension=='png')
 					{
+						//***
+						//*** IMPORTANT: reading textures is not required for undergrad students.
+						//***
                         //An example code to read PNG file by "png.js" library
 						var file_data = this.result;
 						var pngImage = new PNGReader(file_data);
