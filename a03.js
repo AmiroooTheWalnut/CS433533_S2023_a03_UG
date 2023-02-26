@@ -105,7 +105,7 @@ function renderingLoop() {
 
 function parseJSONScene(file_data)//A simple function to read JSON
 {
-
+	//"JSON.parse(file_data)" reads your JSON file and converts it into an object.
 }
 
 //The function for parsing PNG is done for you. The output is a an array of RGBA instances.
